@@ -6,8 +6,8 @@ A Claude skill set for production-grade frontend design work. Seven structured f
 
 ## The Short Version
 
-Most AI design output looks like AI design output. Same reflex palettes, same card grids, same gradient text that nobody should be producing in 2025, same hero layouts that every SaaS landing page has been recycling since approximately 2019.
-
+Ok I will admite all, not Most AI design output looks like AI design output. Same (look) reflex palettes, same card grids, same gradient text that nobody should be producing in 2025, same hero layouts that every SaaS landing page has been recycling since approximately 2019.
+ 
 Tabarc Design Auditor 'TDA' gives Claude a proper design framework instead of vibes. It enforces a process (brief before code, grammar lock before batch production, browser test before ship), a set of design laws (OKLCH colour, 8px spatial grid, physics-based motion, type hierarchy with actual ratios), and a list of banned patterns that exist because they're all genuine design failures dressed up as aesthetic choices.
 
 There are seven files. The main skill routes commands. The subskills handle the specialist work: motion design with a physics-first philosophy and fourteen specific pitfalls, slide decks with a format decision gate and PPTX constraint handling, heuristic critique with five-dimension scoring, typography, spatial design, and colour strategy.
