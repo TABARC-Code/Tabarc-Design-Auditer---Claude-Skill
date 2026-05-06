@@ -8,7 +8,7 @@ A Claude skill set for production-grade frontend design work. Seven structured f
 
 Most AI design output looks like AI design output. Same reflex palettes, same card grids, same gradient text that nobody should be producing in 2025, same hero layouts that every SaaS landing page has been recycling since approximately 2019.
 
-TDA gives Claude a proper design framework instead of vibes. It enforces a process (brief before code, grammar lock before batch production, browser test before ship), a set of design laws (OKLCH colour, 8px spatial grid, physics-based motion, type hierarchy with actual ratios), and a list of banned patterns that exist because they're all genuine design failures dressed up as aesthetic choices.
+Tabarc Design Auditor 'TDA' gives Claude a proper design framework instead of vibes. It enforces a process (brief before code, grammar lock before batch production, browser test before ship), a set of design laws (OKLCH colour, 8px spatial grid, physics-based motion, type hierarchy with actual ratios), and a list of banned patterns that exist because they're all genuine design failures dressed up as aesthetic choices.
 
 There are seven files. The main skill routes commands. The subskills handle the specialist work: motion design with a physics-first philosophy and fourteen specific pitfalls, slide decks with a format decision gate and PPTX constraint handling, heuristic critique with five-dimension scoring, typography, spatial design, and colour strategy.
 
@@ -48,7 +48,7 @@ Absolute. No exceptions.
 
 ## What It's For
 
-It's for people who want Claude to behave like a competent senior designer with consistent principles, not a different aesthetic sensibility every session. It's not autonomous. It works with you. The judgment is still yours. TDA just makes sure the framework supporting that judgment is coherent and doesn't change on a whim.
+This is for people who want Claude to behave like a competent senior designer with consistent principles, not some different aesthetic sensibility every session. It's not autonomous. 'It works with you'. The judgment is still yours - This is important, and one i understand as a designer. TDA just makes sure the framework supporting that judgment is coherent and doesn't change on a whim.
 
 ---
 
